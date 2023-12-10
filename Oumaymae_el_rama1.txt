@@ -1,2 +1,4 @@
 contenido rama1
 añade lineas en la rama1
+añade una linea en el master
+añade la segunda linea en el master
